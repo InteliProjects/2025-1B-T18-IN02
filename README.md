@@ -3,7 +3,7 @@
 </div>
 
 
-# 🙋 2025.1  - Módulo 02: Aplicação para ambiente web - Turma 18 - St. Paul's School
+# 🙋 2025.2  - Módulo 02: Aplicação para ambiente web - Turma 18 - St. Paul's School
 
 
 ## 🎯 O objetivo:
